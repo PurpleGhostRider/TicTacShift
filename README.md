@@ -77,8 +77,8 @@ TicTacShift is a modern, real-time, cross-platform mobile version of the classic
 ### Loading Screen
 <img width="360" height="720" alt="Loading" src="https://github.com/user-attachments/assets/7d8eaca3-1dfd-4623-9605-5144dbec5ffe" />
 
-### Sample gameplay against easy ai:
-[Screen_recording_20250808_155715.webm](https://github.com/user-attachments/assets/8d1c7e02-ccce-4fea-8be2-cf2fb7700975)
+### Sample gameplay against easy AI:
+[![Watch the video](https://img.youtube.com/vi/dZNGiOLRVbs/0.jpg)](https://youtube.com/shorts/dZNGiOLRVbs?feature=share)
 
 
 ## Developer
